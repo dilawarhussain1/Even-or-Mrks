@@ -1,0 +1,41 @@
+body{
+            align-items: center;
+            text-align: center;
+            background-color: rgb(75, 75, 125);
+            font-family: "noori nastaleeq regular";
+          
+}
+  .hh{
+    border: 5px solid red;
+    background-color: bisque;
+  }
+.form{
+   margin: 2%; 
+   color: rgb(206, 142, 58);
+}
+
+.form,label{
+    font-size: 30px;
+    color: rgb(175, 225, 26);
+}
+.form,input{
+    font-size: 20px;
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
+
+.form,button{
+    font-size: 20px;
+    background-color: rgb(29, 26, 26);
+    color: rgb(137, 174, 206);
+    padding: 10px;
+    margin: 1%;
+    cursor: pointer;
+}
+
+p{
+    font-size: 35px;
+    color: rgb(132, 204, 105);
+    margin: 1%; 
+}
